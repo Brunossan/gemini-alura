@@ -14,7 +14,11 @@ Para rodar basta inserir uma chave de api válida no arquivo Main.py (procure po
 tendo instalado as dependências
 
 <!-- Dependecias -->
+
 pip install ipython
+
 pip install -q google-adk
+
 pip -q install google-genai
+
 pip install google-generativeai Pillow
